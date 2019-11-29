@@ -1,0 +1,1 @@
+This is the Firebase portion of the source code for the journal application from [Full Stack Serverless](https://www.youtube.com/playlist?list=PLH_Crma-Dc9NSWCnT6D_fA5RdJJsneVmK). Check out the series to learn more!
